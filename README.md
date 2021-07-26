@@ -1,46 +1,58 @@
-# Getting Started with Create React App
+<h1>Desafio #2</h1>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<h2>Índice</h2>
 
-## Available Scripts
+<a href="#technologies">Tecnologias</a>
+<a href="#run">Como executar</a>
+<a href="#author">Autor</a>
 
-In the project directory, you can run:
+<h6 id="technologies">
 
-### `yarn start`
+## :zap: Tecnologias
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+- ReactJS
+- TypeScript
+- Styled Components
+- Material UI
+- Commitizen(para commits com o git)
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+<h6 id="run">
 
-### `yarn test`
+## :mag: Como executar
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+#### Requisitos:
 
-### `yarn build`
+- git
+- node
+- npm
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+#### Siga os passos abaixo
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+```bash
+# Clone o repositório
+$ git clone https://github.com/stenioas/hc-challenge-two.git
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+# Acesse o diretório
+$ cd hc-challenge-two
 
-### `yarn eject`
+# Instale as dependências
+$ npm install
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+# Execute a aplicação
+$ npm start
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+# Acesse pelo navegador
+http://localhost:3000
+```
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+<h6 id="author">
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+## 👨‍💻 Autor
 
-## Learn More
+Stenio Almeida.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+[![Linkedin Badge](https://img.shields.io/badge/-linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/stenioas/)](https://www.linkedin.com/in/stenioas/) [![Gmail Badge](https://img.shields.io/badge/-gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:stenioas@gmail.com)](mailto:stenioas@gmail.com) [![Instagram Badge](https://img.shields.io/badge/-instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/stenioas/)](https://www.instagram.com/stenioas/) [![Telegram Badge](https://img.shields.io/badge/-telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&link=https://t.me/stenioas/)](https://t.me/stenioas/) [![Github Badge](https://img.shields.io/badge/-github-181717?style=for-the-badge&logo=github&logoColor=white&link=https://www.github.com/stenioas)](https://github.com/stenioas)
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## :purple_heart: Obrigado!
+
+Obrigado pela oportunidade de aprimorar meus conhecimentos! :heart:
