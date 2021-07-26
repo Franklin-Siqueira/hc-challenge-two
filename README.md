@@ -8,6 +8,12 @@
 
 <h6 id="technologies">
 
+## ✨ Funcionalidades
+
+- [x] Cadastrar e visualizar clientes
+- [x] Cadastrar e visualizar produtos
+- [ ] Editar e excluir cadastro(em breve)
+
 ## :zap: Tecnologias
 
 - ReactJS
